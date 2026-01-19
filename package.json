@@ -3,7 +3,7 @@
     "dotenv": "^16.5.0",
     "fs": "^0.0.1-security",
     "node-cron": "^3.0.3",
-    "nodemailer": "^6.10.1",
+    "nodemailer": "^7.0.12",
     "path": "^0.12.7",
     "pdfkit": "^0.17.0"
   }
